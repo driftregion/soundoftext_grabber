@@ -2,11 +2,42 @@
   "phrases": [
     {
       "en": "Where can I find healthy food this late?",
-      "zh": "我这儿能在哪里找到健康食品？"
+      "zh": "我这儿能在哪里找到健康食品？",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/我这儿能在哪里找到健康食品？.mp3"
     },
     {
       "en": "I'm looking for the 6mm hex key",
-      "zh": "我正在寻找6毫米六角扳手"
+      "zh": "我正在寻找6毫米六角扳手",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/我正在寻找6毫米六角扳手.mp3"
+    },
+    {
+      "en": "that's three times as much",
+      "zh": "这是三倍",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/这是三倍.mp3"
+    },
+    {
+      "en": "I pay less than ￥650 a month",
+      "zh": "我每月支付不到650块",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/我每月支付不到650块.mp3"
+    },
+    {
+      "en": "A transistor is a fundamental electronic component",
+      "zh": "晶体管是基本的电子元件",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/晶体管是基本的电子元件.mp3"
+    },
+    {
+      "en": "Your phone contains billions of transistors",
+      "zh": "你的手机包含数十亿个晶体管",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/你的手机包含数十亿个晶体管.mp3"
+    },
+    {
+      "en": "Water boils at 100 degrees C",
+      "zh": "水沸腾在100摄氏度",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/水沸腾在100摄氏度.mp3"
+    },
+    {
+      "en": "Why is this song so popular?",
+      "zh": "为什么这首歌如此受欢迎？"
     }
   ]
 }
