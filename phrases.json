@@ -1,14 +1,14 @@
 {
   "phrases": [
     {
-      "en": "Where can I find healthy food this late?",
-      "zh": "我这儿能在哪里找到健康食品？",
-      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/我这儿能在哪里找到健康食品？.mp3"
+      "en": "healthy food",
+      "zh": "健康食品",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/健康食品.mp3"
     },
     {
-      "en": "I'm looking for the 6mm hex key",
-      "zh": "我正在寻找6毫米六角扳手",
-      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/我正在寻找6毫米六角扳手.mp3"
+      "en": "6mm hex key",
+      "zh": "毫米六角扳手",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/毫米六角扳手.mp3"
     },
     {
       "en": "that's three times as much",
@@ -37,7 +37,58 @@
     },
     {
       "en": "Why is this song so popular?",
-      "zh": "为什么这首歌如此受欢迎？"
+      "zh": "为什么这首歌如此受欢迎？",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/为什么这首歌如此受欢迎？.mp3"
+    },
+    {
+      "en": "I need to poop",
+      "zh": "我需要大便",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/我需要大便.mp3"
+    },
+    {
+      "en": "The sun is very bright",
+      "zh": "太阳很亮",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/太阳很亮.mp3"
+    },
+    {
+      "en": "The lighting isn't very good (in this photo)",
+      "zh": "照明效果不佳",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/照明效果不佳.mp3"
+    },
+    {
+      "en": "There are many variables",
+      "zh": "有很多变数",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/有很多变数.mp3"
+    },
+    {
+      "en": "It's part of life",
+      "zh": "这是生活的一部分",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/这是生活的一部分.mp3"
+    },
+    {
+      "en": "for the most part",
+      "zh": "在大多数情况下",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/在大多数情况下.mp3"
+    },
+    {
+      "en": "congratulations!",
+      "zh": "祝贺您！",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/祝贺您！.mp3"
+    },
+    {
+      "en": "I'm sorry to hear that",
+      "zh": "听到这个消息我很难过",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/听到这个消息我很难过.mp3"
+    },
+    {
+      "en": "cultural differences",
+      "zh": "文化差异",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/文化差异.mp3"
+    },
+    {
+      "en": "waiting for your rent to expire",
+      "zh": "等你房租到期了",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/等你房租到期了.mp3"
     }
   ]
 }

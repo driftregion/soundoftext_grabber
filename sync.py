@@ -5,6 +5,7 @@ import logging
 import sys
 import os
 from soundoftext import fetch_phrase
+from memrise import Memrise
 
 # from .memrise import Memrise
 
@@ -48,3 +49,24 @@ def download_phrases():
 
 download_phrases()
 
+with Memrise() as m:
+    phrases = s.data["phrases"]
+    for phrase in phrases:
+        matching_things = [
+            thing for thing in m.get_things() if thing.en == phrase["en"]
+        ]
+        thing = matching_things[0] if matching_things else None
+        if thing:
+            logger.info(f"phrase already added: {phrase['en']}")
+            if thing.already_has_audio:
+                pass
+            elif phrase and phrase.get("path"):
+                thing.add_audio(phrase["path"])
+
+        else:
+            try:
+                m.add_thing(phrase["en"], phrase["zh"])
+            except Exception:
+                import ipdb
+
+                ipdb.set_trace()
