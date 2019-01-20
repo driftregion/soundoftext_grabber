@@ -11,11 +11,11 @@ This uses Selenium to automate firefox. I believe this to be more expedient than
 
 # Usage
 
+Install:
+
+- [geckodriver](https://github.com/mozilla/geckodriver/releases)
+
 ```
 pip install -e requirements.txt
 ./sync.py
 ```
-
-# Additional Requirements
-
-- [geckodriver](https://github.com/mozilla/geckodriver/releases)
