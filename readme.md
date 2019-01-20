@@ -19,3 +19,7 @@ Install:
 pip install -e requirements.txt
 ./sync.py
 ```
+
+# Known issues
+
+- the current memrise syncing approach seems to reset learning progress
