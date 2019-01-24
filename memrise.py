@@ -89,9 +89,9 @@ class Memrise(object):
             ".//tr[@data-role='add-form']//td//input"
         )
 
-        fields[0].click()
+        # fields[0].click()
         fields[0].send_keys(zh)
-        fields[1].click()
+        # fields[1].send_keys(Keys.TAB)
         fields[1].send_keys(en)
         fields[1].send_keys(Keys.RETURN)
 

@@ -16,9 +16,14 @@
       "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/这是三倍.mp3"
     },
     {
-      "en": "I pay less than ￥650 a month",
-      "zh": "我每月支付不到650块",
-      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/我每月支付不到650块.mp3"
+      "en": "less than three",
+      "zh": "少于三个",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/少于三个.mp3"
+    },
+    {
+      "en": "less than three months",
+      "zh": "不到三月",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/不到三月.mp3"
     },
     {
       "en": "A transistor is a fundamental electronic component",
@@ -89,6 +94,26 @@
       "en": "waiting for your rent to expire",
       "zh": "等你房租到期了",
       "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/等你房租到期了.mp3"
+    },
+    {
+      "en": "referral bonus",
+      "zh": "推荐奖金",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/推荐奖金.mp3"
+    },
+    {
+      "en": "get over one's sorrow",
+      "zh": "克服悲伤",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/克服悲伤.mp3"
+    },
+    {
+      "en": "He is a real bragger",
+      "zh": "她很会夸口",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/她很会夸口.mp3"
+    },
+    {
+      "en": "save electricity",
+      "zh": "节约用电",
+      "path": "/home/njames/repos/bulk_soundoftext_grabber/sounds/节约用电.mp3"
     }
   ]
 }

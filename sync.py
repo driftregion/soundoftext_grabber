@@ -51,6 +51,13 @@ download_phrases()
 
 with Memrise() as m:
     phrases = s.data["phrases"]
+    existing_things = m.get_things()
+    for thing in existing_things:
+        if thing.en not in (phrase["en"] for phrase in phrases):
+            logger.info(
+                f"\nHmm, this phrase isn't in the JSON, i should probably delete it: {thing.en}\n"
+            )
+
     for phrase in phrases:
         matching_things = [
             thing for thing in m.get_things() if thing.en == phrase["en"]

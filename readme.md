@@ -23,3 +23,5 @@ pip install -e requirements.txt
 # Known issues
 
 - the current memrise syncing approach seems to reset learning progress
+- has to be run twice to upload sounds
+- doesn't delete stuff that has been removed from the JSON
